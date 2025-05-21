@@ -3,8 +3,14 @@ main:
   - title: "Ricerca"
     url: /research/
 
-  - title: "Pubblicazioni"
-    url: /publications/
+  - title: "Monitoraggio"
+    url: /monitoring/
+
+  - title: "Modellazione"
+    url: /modelling/
+    
+  - title: "Progettazione"
+    url: /planning/
 
   #- title: "Talks"
   #  url: /talks/    
@@ -21,5 +27,7 @@ main:
   - title: "Corsi"
     url: /corsi/
     
+  - title: "Pubblicazioni"
+    url: /publications/  
   #- title: "Guide"
   #  url: /markdown/
