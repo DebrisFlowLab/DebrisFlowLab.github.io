@@ -8,7 +8,6 @@ author_profile: true
 {% include base_path %}
 
 Il gruppo di ricerca si concentra sullo studio delle colate detritiche e del trasporto solido torrentizio:
-* <b> Fenomenologia delle colate detritiche e del trasporto solido torrentizio</b>
 * <b> Monitoraggio in campo con tecnologie avanzate per l'osservazione e la raccolta dati</b>
 * <b> Sviluppo di modelli numerici idrologici e idraulici per analisi predittive e simulazioni</b>
 * <b> Rilievi topografici di alta precisione per analisi geomorfologiche</b>

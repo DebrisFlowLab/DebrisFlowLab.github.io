@@ -12,6 +12,7 @@ Attraverso una rete di stazioni di misura attive nella valle del Boite (BL), il 
 Le attività includono monitoraggio sul campo, sviluppo di modelli numerici, rilievi topografici e progettazione di interventi di sistemazione idraulica.
 
 ## Attività del gruppo
+* Fenomenologia delle colate detritiche e del trasporto solido torrentizio.
 * Monitoraggio in campo con tecnologie avanzate per l'osservazione e la raccolta dati.
 * Sviluppo di modelli numerici idrologici e idraulici per analisi predittive e simulazioni.
 * Rilievi topografici di alta precisione per analisi geomorfologiche.
