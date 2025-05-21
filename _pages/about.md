@@ -19,4 +19,4 @@ Le attività includono monitoraggio sul campo, sviluppo di modelli numerici, ril
 * Consulenze tecniche specialistiche per controversie civili e supporto a procedimenti giudiziari in ambito idraulico e geomorfologico, mediante perizie e relazioni tecnico-scientifiche.
 * Corsi di formazione tecnica rivolte a ingegneri, funzionari e tecnici, su software specialistici (DFRM, HEC-HMS, HEC-RAS) e sulla gestione del rischio da colate detritiche. 
 
-<b> Sviluppiamo soluzioni basate sui dati e orientate all’applicazione concreta, per affrontare le sfide del cambiamento climatico e migliorare la resilienza dei territori. <\b>
+<b> Sviluppiamo soluzioni basate sui dati e orientate all’applicazione concreta, per affrontare le sfide del cambiamento climatico e migliorare la resilienza dei territori. </b>
