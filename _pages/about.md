@@ -7,10 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor (RtdA) at the Department of Land, Environment, Agriculture and Forestry, University of Padua (Italy).
+Il gruppo di ricerca, guidato dal Prof. Carlo Gregoretti presso il Dipartimento TESAF dell'Università di Padova, si concentra sullo studio delle colate detritiche e del trasporto solido torrentizio. Attraverso una rete di stazioni di misura attive nella valle del Boite (BL), il gruppo raccoglie e analizza dati ad alta risoluzione su precipitazioni intense, deflussi superficiali e dinamiche di innesco e propagazione delle colate. Le attività includono monitoraggio sul campo, sviluppo di modelli numerici, rilievi topografici e progettazione di interventi di sistemazione idraulica.
 
-I received the Bachelor degree (2011) and the Master degree (2014) from the University of Padova, both in Civil Engineering. I then pursued the Doctoral degree in Land, Environment, Resources, and Health from the University of Padua, Italy (2018).
+Aree di competenza:
+o Fenomenologia delle colate detritiche e del trasporto solido torrentizio.
+o Monitoraggio in campo con tecnologie avanzate per l'osservazione e la raccolta dati.
+o Sviluppo di modelli numerici idrologici e idraulici per analisi predittive e simulazioni.
+o Rilievi topografici di alta precisione per analisi geomorfologiche.
+o Progettazione e valutazione di opere di sistemazione idraulica, con applicazioni operative per enti pubblici e Protezione Civile.
+o Consulenze tecniche specialistiche per controversie civili e supporto a procedimenti giudiziari in ambito idraulico e geomorfologico, mediante perizie e relazioni tecnico-scientifiche.
 
-My PhD thesis was focused on the development and test of a hydrological model with the aim of predicting the triggering of stony debris flows in the Dolomites (Northeastern Italian Alps).
+Il gruppo promuove inoltre attività di formazione tecnica rivolte a ingegneri, funzionari e tecnici, con corsi su software specialistici (DFRM, HEC-HMS, HEC-RAS) e sulla gestione del rischio da colate detritiche. 
 
-After the PhD, I collaborated as postdoctoral fellow with the Department of Land, Environment, Agriculture and Forestry at the University of Padua, working on the monitoring and modeling of stony debris flows in the Dolomites. Since March 2023, I am holding the current position, within the “RETURN - multi-Risk sciEnce for resilienT commUnities undeR a changiNg climate” project, MUR-PNRR Extended Partnership PE3, funded by Next-Generation EU.
+Sviluppiamo soluzioni basate sui dati e orientate all’applicazione concreta, per affrontare le sfide del cambiamento climatico e migliorare la resilienza dei territori.
