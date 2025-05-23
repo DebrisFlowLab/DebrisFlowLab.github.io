@@ -11,4 +11,4 @@ Il gruppo gestisce una <b>rete di stazioni di monitoraggio</b> localizzate in si
 Il monitoraggio consente di <b>osservare in tempo reale</b> la risposta impulsiva del bacino agli eventi di precipitazione, di <b>identificare gli idrogrammi liquidi e le condizioni di innesco</b> delle colate detritiche, e di raccogliere dati fondamentali per la <b>calibrazione dei modelli numerici</b>.
 Vengono inoltre realizzati <b>rilievi topografici di alta precisione</b> con UAV e tecnologie LiDAR, utili alla stima dei volumi mobilizzati e all’analisi dei cambiamenti geomorfologici pre- e post-evento.
 
-[Per saperne di più...](./files/DFLab_Monitoraggio.pdf)
+[Per saperne di più...](/files/DFLab_Monitoraggio.pdf)

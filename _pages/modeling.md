@@ -12,4 +12,4 @@ L’approccio integra <b>modelli idrologici</b> sviluppati ad hoc e <b>modelli i
 I modelli consentono di <b>simulare fenomeni complessi</b> come l’innesco, la propagazione e i depositi delle colate, anche in caso di avulsione del flusso dal canale attivo. 
 L’uso di tecniche Monte Carlo su DEM da LiDAR permette di associare probabilità di percorrenza a differenti scenari di deflusso, contribuendo alla <b>gestione del rischio in contesti dinamici e vulnerabili</b>.
 
-[Per saperne di più...](./files/DFLab_Modellazione.pdf)
+[Per saperne di più...](/files/DFLab_Modellazione.pdf)

@@ -11,4 +11,4 @@ Il gruppo è attivo nella progettazione di <b>opere di sistemazione idraulica</b
 Grazie alla combinazione di rilievi, modellazione numerica e dati reali, le opere vengono dimensionate con criteri scientifici e verifiche di funzionalità idraulica, supportando enti pubblici (come ARPAV, ANAS, Province) e studi tecnici in tutte le fasi della progettazione.
 Il gruppo si occupa anche di <b>consulenze tecniche e perizie specialistiche in ambito giudiziario</b>, mettendo a disposizione le proprie competenze per l’analisi di dinamiche di versante e fenomeni di dissesto.
 
-[Per saperne di più...](./files/DFLab_Progettazione.pdf)
+[Per saperne di più...](/files/DFLab_Progettazione.pdf)
