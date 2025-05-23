@@ -41,7 +41,7 @@
 
 <meta property="og:locale" content="{{ site.locale | default: "en" }}">
 <meta property="og:site_name" content="{{ site.title }}">
-<meta property="og:title" content="Debris Flow Lab">
+<meta property="og:title" content="{{ page.title | default: site.title | markdownify | strip_html | strip_newlines | escape_once }}">
 
 {% if seo_url %}
   <link rel="canonical" href="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
@@ -49,7 +49,7 @@
 {% endif %}
 
 {% if page.excerpt %}
-  <meta property="og:description" content="Il gruppo di ricerca, guidato dal Prof. Carlo Gregoretti presso il Dipartimento TESAF dell’Università di Padova, si concentra sullo studio delle colate detritiche e del trasporto solido torrentizio.">
+  <meta property="og:description" content="{{ seo_description }}">
 {% endif %}
 
 {% if site.twitter.username %}
